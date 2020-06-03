@@ -5,4 +5,4 @@
 
 # Hola JGB
 
-[Hola]
+[*Hola]
