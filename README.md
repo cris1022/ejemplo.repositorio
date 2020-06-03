@@ -1,7 +1,7 @@
 # ejemplo.repositorio
 ## Hola 2 ##
 
-
+## Cris :mortar_board:
 
 # Hola JGB 📌
 
@@ -9,4 +9,3 @@
 
 
 ADSI 1964704
-SENA COLOMBIA
